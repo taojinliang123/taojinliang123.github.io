@@ -110,7 +110,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 海南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226450/1.m3u8
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-海峡卫视,http://110.72.67.13:808/hls/72/index.m3u8
+海峡卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8570/.m3u8
+海峡卫视,http://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=bb200c2a1706095162
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
@@ -119,7 +120,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 山东齐鲁,http://221.2.146.228:8888/newlive/live/hls/49/live.m3u8
 山东综艺,http://221.2.146.228:8888/newlive/live/hls/52/live.m3u8
 山东文旅,http://221.2.146.228:8888/newlive/live/hls/50/live.m3u8
-山东农科,https://hlsgs.iqilu.com/live/nkpd/index.m3u8?sign=73247a20265ad0a129f2441c2db7adf3&t=65af7a90&rid=ec7cde99-3c9b-41a9-89e4-3e15781ddb05
+山东农科,https://hlsgs.iqilu.com/live/nkpd/index.m3u8?sign=165a02d2557a42e69d219737d92e90e8&t=65b0cc9b&rid=0ec1441e-655c-4ab5-be79-30b1169cc458
 山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
 山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 山东教育,http://221.2.146.228:8888/newlive/live/hls/55/live.m3u8
